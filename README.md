@@ -1,4 +1,4 @@
 # palayon-app
 
 Palayon App
-an simple delivery application using expo.
+an simple delivery application.
